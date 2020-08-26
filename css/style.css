@@ -1,0 +1,41 @@
+<style>
+h1 {
+   color:pink;
+   font-family: verdana;
+   font-size: 300%;
+}
+
+body {
+  background-image: url('cute.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:100% 100%;
+  border: 5px solid white;
+  
+}
+img {
+   width:20%;
+   height:50%;
+}   
+p { 
+  color: Black;
+  font-family: Harrington;
+  font-size:130%;
+  text-align:rightcenter;
+}
+
+a {
+  background-color: violet; padding 30px 30px
+  background-color: violet; padding 30px 30px
+  font-family: verdana;
+}
+a {
+   background-color: violet; padding 30px 30px
+  background-color: violet; padding 30px 30px
+  font-family: verdana;
+}
+   
+  
+  
+
+</style>
