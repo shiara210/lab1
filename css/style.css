@@ -16,14 +16,14 @@ body {
   
 p { 
   color: Black;
-  font-family: Harrington;
+  font-family: 'Harrington', sans-serif;
   font-size:140%;
   text-align:center;
 }
 
 p2 {
     color: red;
-    font-family: Harrington;
+    font-family: 'Harrington', sans-serif;
     font-size: 150%;
     text-align: center;   
 }
@@ -31,8 +31,8 @@ p2 {
 
 p3 {
     color: black;
-    font-family: Comic Sans MS;
-    font-size: 100%;
+    font-family:'Harrington', sans-serif;
+    font-size: 140%;
     text-align: center;
 }
 
