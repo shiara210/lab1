@@ -1,11 +1,8 @@
 h1 {
-   color: #ff69b4;;
-   font-family: 'IBM Plex Serif',serif;
-   font-size: 300%;
+   color: #ff69b4;
 }
 
 body {
-  background-image: url(cute.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size:cover;
@@ -13,23 +10,9 @@ body {
 } 
   
 p { 
-  color: Black;
-  font-family: 'IBM Plex Serif',serif;
-  font-size:140%;
-  text-align:center;
+  color: black;
 }
 
 p2 {
     color: red;
-    font-family: 'IBM Plex Serif',serif;
-    font-size: 150%;
-    text-align: center;   
-}
-
-
-p3 {
-    color: black;
-    font-family: 'Noto Sans JP', sans-serif;
-    font-size: 140%;
-    text-align: center;
 }
