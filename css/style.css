@@ -6,7 +6,9 @@ h1 {
 }
 
 body {
-  background:url(cute.jpg)no-repeat fixed;
+  background-image: url(cute.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   background-size:cover;
   border: 5px solid white;
   
