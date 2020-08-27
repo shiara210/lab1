@@ -1,4 +1,5 @@
 <style>
+}
 h1 {
    color:pink;
    font-family: verdana;
@@ -20,22 +21,22 @@ img {
 p { 
   color: Black;
   font-family: Harrington;
-  font-size:130%;
-  text-align:rightcenter;
+  font-size:140%;
+  text-align:center;
 }
 
-a {
-  background-color: violet; padding 30px 30px
-  background-color: violet; padding 30px 30px
-  font-family: verdana;
+p2 {
+    color: red;
+    font-family: Harrington;
+    font-size: 150%;
+    text-align: center;    
 }
-a {
-   background-color: violet; padding 30px 30px
-  background-color: violet; padding 30px 30px
-  font-family: verdana;
+
+p3 {
+    color: black;
+    font-family: Comic Sans MS;
+    font-size: 130%;
+    text-align: center;
 }
-   
-  
-  
 
 </style>
