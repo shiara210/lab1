@@ -1,5 +1,4 @@
-<style>
-}
+
 h1 {
    color:pink;
    font-family: verdana;
@@ -29,14 +28,15 @@ p2 {
     color: red;
     font-family: Harrington;
     font-size: 150%;
-    text-align: center;    
+    text-align: center;   
+
 }
+
 
 p3 {
     color: black;
     font-family: Comic Sans MS;
-    font-size: 130%;
+    font-size: 100%;
     text-align: center;
 }
 
-</style>
