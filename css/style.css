@@ -15,7 +15,7 @@ body {
   
 p { 
   color: Black;
-font: family: tahoma;
+font-family: tahoma;
   /* font-family: 'IBM Plex Serif',serif; */
   font-size:140%;
   text-align:center;
