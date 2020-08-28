@@ -1,36 +1,30 @@
+body {
+background-image: url(cute.png);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+border: 5px solid white;
+}
+
 h1 {
    color: #ff69b4;;
    font-family: 'IBM Plex Serif',serif;
    font-size: 300%;
 }
 
-body {
-  background-image: url(cute.jpg);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size:cover;
-  border: 5px solid white;
-  
-} 
-  
 p { 
   color: Black;
-  font-family: 'IBM Plex Serif',serif;
+  font-family: Harrington;
   font-size:140%;
-  text-align:center;
 }
 
 p2 {
     color: red;
-    font-family: 'IBM Plex Serif',serif;
+    font-family: Harrington;
     font-size: 150%;
-    text-align: center;   
 }
-
 
 p3 {
     color: black;
-    font-family: 'Noto Sans JP', sans-serif;
+    font-family: Comic Sans MS;
     font-size: 140%;
-    text-align: center;
 }
